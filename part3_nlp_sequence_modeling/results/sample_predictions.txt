@@ -1,0 +1,6 @@
+Sample Text -> Actual Category -> Predicted Category
+Text: i like the new payment and it is easy to use my ticket number is  | Actual: positive | Pred: positive
+Text: great service and clear communication from the support team | Actual: positive | Pred: positive
+Text: my refund is still pending and this experience is frustrating | Actual: negative | Pred: negative
+Text: the app crashes whenever i try to use analytics | Actual: negative | Pred: negative
+Text: the response from the team was helpful and professional | Actual: positive | Pred: positive
